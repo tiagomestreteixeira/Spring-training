@@ -18,10 +18,12 @@ public class AppConfig {
     @Autowired
     private DataSource dataSource;
 
-    @Autowired @Qualifier("redSox")
+    @Autowired
+    @Qualifier("redSox")
     private Team home;
 
-    @Autowired @Qualifier("cubs")
+    @Autowired
+    @Qualifier("cubs")
     private Team away;
 
     @Bean

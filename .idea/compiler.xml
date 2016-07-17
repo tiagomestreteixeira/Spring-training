@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gs-spring-boot-complete_main" target="1.8" />
-      <module name="gs-spring-boot-complete_test" target="1.8" />
+      <module name="Spring-training_main" target="1.8" />
+      <module name="Spring-training_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

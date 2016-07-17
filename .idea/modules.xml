@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-spring-boot-complete.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-spring-boot-complete.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-spring-boot-complete_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-spring-boot-complete_main.iml" group="gs-spring-boot-complete" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-spring-boot-complete_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-spring-boot-complete_test.iml" group="gs-spring-boot-complete" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-training.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-training_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-training_main.iml" group="Spring-training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-training_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-training_test.iml" group="Spring-training" />
     </modules>
   </component>
 </project>

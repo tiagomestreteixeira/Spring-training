@@ -1,12 +1,11 @@
 package com.oreilly;
 
-import java.util.Arrays;
-
 import com.oreilly.entities.Game;
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import java.util.Arrays;
 
 @SpringBootApplication
 public class Application {
@@ -36,8 +35,9 @@ public class Application {
             System.out.println(beanName);
         }
 
-        Game g = ctx.getBean("game",Game.class);
+        Game g = ctx.getBean("game", Game.class);
         System.out.println(g.playGame());
+
     }
 
 }
