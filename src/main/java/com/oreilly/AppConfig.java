@@ -32,4 +32,5 @@ public class AppConfig {
         game.setDataSource(dataSource);
         return game;
     }
+    
 }
